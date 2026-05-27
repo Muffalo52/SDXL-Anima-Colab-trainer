@@ -3,3 +3,5 @@
 This Trainer depends on the [LoRA_Easy_Training_scripts_Backend](https://github.com/67372a/LoRA_Easy_Training_scripts_Backend) and [LyCORIS](https://github.com/67372a/LyCORIS) of 67372a
 
 한국어 사용법 : https://arca.live/b/personaltranslation/166809927?p=1
+
+아카이브 보존 & 체인지 로그 기록용
